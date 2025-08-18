@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sohit Punia</h1>
 <p align="center">
-  <b>Third-year B.Tech (ECE)</b> • MERN & Web Developer • DSA enthusiast  
+  <b>Third-year B.Tech </b> • MERN & Web Developer • DSA enthusiast  
   <br>
   <a href="https://www.linkedin.com/in/sohit-punia-23a2a6311/">LinkedIn</a> · 
   <a href="https://github.com/sohit-punia">GitHub</a> · 
@@ -32,7 +32,7 @@
 - **E-Commerce Product Page** — React product listing, add-to-cart, dynamic total calculation (Context API).  
 - **Personal Portfolio** — Responsive showcase of projects & skills.
 
-(Links to project repos can be added here.)
+
 
 ---
 
