@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 - Building web apps with the **MERN stack** and practicing algorithms daily.  
-- Projects: **StudyNotion** (MERN learning platform), **React E-Commerce Product Page**, Portfolio.  
+- Projects: **Yappy (real-time chat & video call app)**, **StudyNotion** (MERN learning platform), **React E-Commerce Product Page**, Portfolio.  
 - Completed the **#100DaysOfCode** challenge — follow my journey: **#codewithsohit** · **#sohitsolvedsa**.
 
 ---
@@ -28,11 +28,10 @@
 ---
 
 ## ⭐ Featured Projects
+- **Yappy** — Real-time chat & video calling app with **WebRTC, Socket.io, and MongoDB**, enabling private/group chat, video calls, and user authentication.  
 - **StudyNotion** — Full-stack MERN learning platform (JWT auth, cookies, Razorpay, Nodemailer, role-based access).  
 - **E-Commerce Product Page** — React product listing, add-to-cart, dynamic total calculation (Context API).  
 - **Personal Portfolio** — Responsive showcase of projects & skills.
-
-
 
 ---
 
