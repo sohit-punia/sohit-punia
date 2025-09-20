@@ -1,55 +1,62 @@
-<!--- README for Sohit Punia --->
+# Hi 👋, I'm Sohit Punia
 
-<h1 align="center">Hi 👋, I'm Sohit Punia</h1>
-<p align="center">
-  <b>Third-year B.Tech </b> • MERN & Web Developer • DSA enthusiast  
-  <br>
-  <a href="https://www.linkedin.com/in/sohit-punia-23a2a6311/">LinkedIn</a> · 
-  <a href="https://github.com/sohit-punia">GitHub</a> · 
-  sohitpunia001@gmail.com
-</p>
+**Third-year B.Tech (ECE)** • MERN & Web Developer • DSA enthusiast  
+📍 Kurukshetra University · ✉️ sohitpunia001@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/sohit-punia-23a2a6311/) · 🔗 [GitHub](https://github.com/sohit-punia)
 
 ---
 
 ## 🚀 About Me
-- Building web apps with the **MERN stack** and practicing algorithms daily.  
-- Projects: **Yappy (real-time chat & video call app)**, **StudyNotion** (MERN learning platform), **React E-Commerce Product Page**, Portfolio.  
-- Completed the **#100DaysOfCode** challenge — follow my journey: **#codewithsohit** · **#sohitsolvedsa**.
+I build full-stack web applications using the **MERN** stack, solve algorithm problems daily, and share my learning journey.  
+Working on real-time apps, learning advanced system design, and improving DSA every day.
+
+- 🔨 Current focus: **MERN**, WebRTC, Socket.io, System design basics  
+- 🎯 Projects: **Yappy (chat & video calls)**, **StudyNotion**, **React E-Commerce Product Page**, Portfolio  
+- 📚 #100DaysOfCode — follow my daily problems: **#codewithsohit** · **#sohitsolvedsa**
 
 ---
 
-## 🛠️ Tech & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,cpp,python,git,github,vercel,netlify" />
-</p>
+## 🧰 Tech & Tools
 
-**Key skills:** HTML5 · CSS3 · Tailwind CSS · JavaScript (ES6+) · React.js · Node.js · Express.js · RESTful APIs · MongoDB · JWT · Cookies · Nodemailer · Razorpay · Git · NumPy · Deployment (Vercel, Netlify)
+![Skillicons](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,cpp,python,git,github,vercel,netlify)
+
+**Languages & Frameworks:** JavaScript (ES6+), TypeScript (basic), React, Node.js, Express, MongoDB, C++, Python  
+**Other:** REST APIs, JWT, Cookies, Nodemailer, Razorpay, Git, Docker (learning), Deployment (Vercel, Netlify)
 
 ---
 
 ## ⭐ Featured Projects
-- **Yappy** — Real-time chat & video calling app with **WebRTC, Socket.io, and MongoDB**, enabling private/group chat, video calls, and user authentication.  
-- **StudyNotion** — Full-stack MERN learning platform (JWT auth, cookies, Razorpay, Nodemailer, role-based access).  
-- **E-Commerce Product Page** — React product listing, add-to-cart, dynamic total calculation (Context API).  
-- **Personal Portfolio** — Responsive showcase of projects & skills.
+
+### Yappy
+**Real-time chat & video calling app**  
+- WebRTC + Socket.io for video and messaging, MongoDB for persistence.  
+- Features: private/group chat, authentication, media sharing.  
+- Tech: React, Node, Express, MongoDB, Socket.io, WebRTC.
+
+### StudyNotion
+**Full-stack learning platform**  
+- Role-based access, payments (Razorpay), email notifications (Nodemailer).  
+- Tech: MERN, JWT, Cookies.
+
+### React E-Commerce Product Page
+- Product listing, cart using Context API, responsive layout.
+
+> See `/projects` for full project folders, live demos and setup instructions.
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohit-punia&show_icons=true&theme=tokyonight" alt="Sohit's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohit-punia&theme=tokyonight" alt="Sohit's streak" />
-</p>
+## 🧩 Algorithms & DSA
+I solve graph/trees/array problems daily as part of **#100DaysOfCode**.  
+Examples in this repo:
+- Graph algorithms (BFS, DFS, Union-Find, Dijkstra, MST)
+- Array & string problems
+- Useful C++ implementations and explanations
+
+**Daily tags:** `#codewithsohit` · `#sohitsolvedsa`
 
 ---
 
-## 💬 Let’s Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/sohit-punia-23a2a6311/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30"/></a>
-  &nbsp;
-  <a href="mailto:sohitpunia001@gmail.com"><img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="email" width="30"/></a>
-</p>
-
----
-
-*Thanks for visiting — I’m always building and learning. Open to internships & collaborations!*  
+## 📦 How to run projects (example)
+1. Clone:
+```bash
+git clone https://github.com/sohit-punia/graph-dsa.git
+cd graph-dsa
