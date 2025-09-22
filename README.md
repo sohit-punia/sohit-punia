@@ -27,7 +27,6 @@
 * 🌱 I'm in my 5th semester of B.Tech (Electrical & Computer Engineering) at Kurukshetra University.
 * 💻 Focus: MERN stack, backend & APIs, and building clean, usable web apps.
 * 🧠 Passionate about DSA — I'm doing **#100DaysOfCode** (one problem a day) to level up. Every DSA post includes `#codewithsohit` and `#sohitsolvedsa`.
-* 🌳 For tree problems I add a tree emoji at the start of my post: `🌳`.
 
 ---
 
@@ -62,13 +61,4 @@
 * GitHub: [https://github.com/sohit-punia](https://github.com/sohit-punia)  
 
 ---
-
-## 🎯 Goals & What I'm Learning
-
-* Finish #100DaysOfCode and hit daily consistency.  
-* Build a portfolio site to showcase MERN projects and APIs.  
-* Learn more advanced system design and TypeScript patterns.  
-
----
-
 Thanks for stopping by — let's build cool stuff! ⭐
