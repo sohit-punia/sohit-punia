@@ -61,15 +61,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=sohit-punia&show_icons=true&theme=radical&hide_border=true"
-    alt="Sohit's GitHub Stats"
-  />
   
-  <img 
+<img 
     height="170"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sohit-punia&theme=radical&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=sohit-punia&theme=radical&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
