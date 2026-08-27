@@ -64,7 +64,7 @@
   
 <img 
     height="170"
-    src="https://streak-stats.demolab.com/?user=sohit-punia&theme=radical&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sohit-punia&theme=radical&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
@@ -83,15 +83,6 @@ For **100 days**, I solved DSA problems consistently and shared my learning jour
 
 > Consistency beats motivation. 🚀
 
----
-
-## 🎯 Currently Working On
-
-- 🧠 Improving **Data Structures & Algorithms**
-- ⚡ Building scalable **MERN Stack applications**
-- 🐍 Learning **Python**
-- 🐳 Exploring **Docker & Deployment**
-- 🏗️ Learning more about **Backend Architecture & System Design**
 
 ---
 
