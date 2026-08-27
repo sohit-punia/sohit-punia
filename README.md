@@ -1,4 +1,10 @@
-# Hi 👋, I'm Sohit Punia
+# <p align="center">
+  Hi, I'm Sohit Punia
+  <img 
+    src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" 
+    width="45px"
+  />
+</p>
 
 <p align="center">
   <img 
@@ -49,9 +55,11 @@
 ## 💼 Featured Projects
 
 ### 📚 StudyNotion
+
 > A full-stack **EdTech platform** where users can create, purchase, and manage courses.
 
 **Features:**
+
 - 🔐 Authentication & Authorization
 - 💳 Payment Integration
 - 👨‍🏫 Instructor & Admin Dashboard
@@ -66,6 +74,7 @@
 > A real-time communication platform with chat and video calling features.
 
 **Features:**
+
 - 💬 Real-time messaging
 - 📹 Video calling
 - 🔌 Socket-based communication
@@ -80,6 +89,7 @@
 > A secure authentication system built for a Figma-based application.
 
 **Features:**
+
 - 🔑 Google OAuth Authentication
 - 🍪 Secure Cookies & Sessions
 - 🛡️ Protected Routes
@@ -102,13 +112,6 @@
     height="170"
     src="https://github-readme-streak-stats.herokuapp.com/?user=sohit-punia&theme=radical&hide_border=true"
     alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohit-punia&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages"
   />
 </p>
 
