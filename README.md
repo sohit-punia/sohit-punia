@@ -53,52 +53,8 @@
 
 </p>
 
----
 
-## 💼 Featured Projects
-
-### 📚 StudyNotion
-
-> A full-stack **EdTech platform** where users can create, purchase, and manage courses.
-
-**Features:**
-
-- 🔐 Authentication & Authorization
-- 💳 Payment Integration
-- 👨‍🏫 Instructor & Admin Dashboard
-- 📚 Course Management
-
-**Tech:** `React` `Node.js` `Express.js` `MongoDB`
-
----
-
-### 💬 Yappy
-
-> A real-time communication platform with chat and video calling features.
-
-**Features:**
-
-- 💬 Real-time messaging
-- 📹 Video calling
-- 🔌 Socket-based communication
-- 👥 User authentication
-
-**Tech:** `React` `Node.js` `Socket.io` `WebRTC` `MongoDB`
-
----
-
-### 🎨 Figma Authentication System
-
-> A secure authentication system built for a Figma-based application.
-
-**Features:**
-
-- 🔑 Google OAuth Authentication
-- 🍪 Secure Cookies & Sessions
-- 🛡️ Protected Routes
-- 🔐 JWT-based Authentication
-
-**Tech:** `Node.js` `Express.js` `MongoDB` `Google OAuth`
+-
 
 ---
 
