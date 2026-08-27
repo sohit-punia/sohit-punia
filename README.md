@@ -1,4 +1,5 @@
-# <h1 align="center">
+# 
+<h1 align="center">
   Hi 👋, I'm Sohit Punia
   <img 
     src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" 
