@@ -10,7 +10,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=50&lines=3rd-Year+B.Tech+Student;MERN+Stack+Developer;Backend+%26+API+Enthusiast;DSA+Learner+%F0%9F%9A%80"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=50&lines=Final-Year+B.Tech+Student;MERN+Stack+Developer;Backend+%26+API+Enthusiast;DSA+Learner+%F0%9F%9A%80"
     alt="Typing SVG"
   />
 </p>
